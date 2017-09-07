@@ -9,3 +9,7 @@ The only thing necessary to create a repository is to change directory to the fo
 
     the staging area allows you to select certain files to add to the repository.
     This way you don't have to commit all your files or just 1 at a time
+
+3) How can you use the staging area to make sure you have one commit per logical change?
+
+	It allows you to select which files are updated, so even if you change multiple 	logical changes, you can select only the relevant ones to update for each commit.
