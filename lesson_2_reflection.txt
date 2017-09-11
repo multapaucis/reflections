@@ -13,3 +13,11 @@ The only thing necessary to create a repository is to change directory to the fo
 3) How can you use the staging area to make sure you have one commit per logical change?
 
 	It allows you to select which files are updated, so even if you change multiple 	logical changes, you can select only the relevant ones to update for each commit.
+
+4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branches can be used anytime you want to try something new, and aren’t sure you want to keep the changes. It also helps you work on several different changes at once.
+
+5) How do the diagrams help you visualize the branch structure?
+
+	Its a pretty accurate representation, and makes it easier to track back through the Commits
