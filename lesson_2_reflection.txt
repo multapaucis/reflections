@@ -21,3 +21,11 @@ The only thing necessary to create a repository is to change directory to the fo
 5) How do the diagrams help you visualize the branch structure?
 
 	Its a pretty accurate representation, and makes it easier to track back through the Commits
+
+6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Merging 2 branches traces the 2 branches back to thei shared parent, and creates a new commit combining the changes from both branches. It branches off originally but i brought back into the main branch
+
+7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Automatic Merging is a huge time saver, and lets you know if their are conflicts that need to be addressed. It does risk mangling some code though, because nothing perfect. Manual merges would take much longer, and have no guarantee of being perfect. plus side is you have full control and can see the full picture.
