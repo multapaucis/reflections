@@ -1,0 +1,2 @@
+1) When would you want to use a remote repository rather than keeping all your work local?
+  Remote Repositories are ideal for Sharing. There are some other benefits such as non-local backup, and being able to access from multiple devices, but the main appeal is being able to share the product or share the work load.
