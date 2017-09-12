@@ -1,7 +1,4 @@
-1)
-I haven't learned much about Git yet.
-I did learn that you can easily open VS code from terminal.
-It's is pretty sweet.
+1)I haven't learned much about Git yet, other than basic structure
 
 2)How could having easy access to the entire history of a file 
 make you a more efficient programmer in the long term?
@@ -10,26 +7,23 @@ It allows you to make larger changes with out worrying about not being able to u
 You can also find bugs that may have been introduced a couple variations ago
 
 
-3)What do you think are the pros and cons of 
-manually choosing when to create a commit, 
-like you do in Git, vs having versions automatically saved, 
-like Google Docs does?
+3)What do you think are the pros and cons of manually choosing when to create a commit, 
+like you do in Git, vs having versions automatically saved, like Google Docs does?
 
-With coding, it is inportant to stop in logical places,
-otherwise the comit could have an unfinished line and be harder to understand
+With coding, it is important to stop in logical places,
+otherwise the commit could have an unfinished line and be harder to understand
 when going back to look at the changes
 
 4) Why do you think some version control systems, like Git, 
 allow saving multiple files in one commit, while others, 
 like Google Docs, treat each file separately?
 
-With coding the files interact, and often one Logical changes
-can occur over several files
+With coding the files interact, and often one logical change can occur over several files
 
 5) How can you use the commands git log and git diff to view the history of files?
 
-Git log shows all of the changes and the messages associated with them
-Git Diff lets you directly compare 2 files
+Git log shows all of the commits and the messages associated with them
+Git diff lets you directly compare 2 files
 git diff --stat gives a summary of files changed and how many lines
 
 6)How might using version control make you more confident to make changes
@@ -40,5 +34,5 @@ git diff --stat gives a summary of files changed and how many lines
 
 7) Now that you have your workspace set up, what do you want to try using Git for?
 
-I want to learn how to merg files if there is a bug earlier in the code
+I want to learn how to merge files if there is a bug earlier in the code
 I'm also excited to see if I set everything up correctly

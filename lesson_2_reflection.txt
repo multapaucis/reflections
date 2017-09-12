@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+1)What happens when you initialize a repository? Why do you need to do it?
 
 git init creates the repository for you to use. it creates a hidden folder, .git.
 .Git stores all of the repository data
@@ -7,8 +7,8 @@ The only thing necessary to create a repository is to change directory to the fo
 2) How is the staging area different from the working directory and the repository?
     What value do you think it offers?
 
-    the staging area allows you to select certain files to add to the repository.
-    This way you don't have to commit all your files or just 1 at a time
+    The staging area allows you to select certain files to add to the repository.
+    This way you don't have to commit all your files or only 1 at a time
 
 3) How can you use the staging area to make sure you have one commit per logical change?
 
@@ -16,7 +16,7 @@ The only thing necessary to create a repository is to change directory to the fo
 
 4) What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-	Branches can be used anytime you want to try something new, and aren’t sure you want to keep the changes. It also helps you work on several different changes at once.
+	Branches can be used anytime you want to try something new, and aren’t sure you want to keep the changes. It also helps you work on several different changes at 	once.
 
 5) How do the diagrams help you visualize the branch structure?
 
@@ -24,8 +24,8 @@ The only thing necessary to create a repository is to change directory to the fo
 
 6) What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-	Merging 2 branches traces the 2 branches back to thei shared parent, and creates a new commit combining the changes from both branches. It branches off originally but i brought back into the main branch
+	Merging 2 branches traces the 2 branches back to their shared parent, and creates a new commit combining the changes from both branches. It branches off originally but is brought back into the main branch
 
 7) What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-	Automatic Merging is a huge time saver, and lets you know if their are conflicts that need to be addressed. It does risk mangling some code though, because nothing perfect. Manual merges would take much longer, and have no guarantee of being perfect. plus side is you have full control and can see the full picture.
+	Automatic Merging is a huge time saver, and lets you know if their are conflicts that need to be addressed. It does risk mangling some code though, because nothing is perfect. Manual merges would take much longer, and have no guarantee of being perfect. The plus side is you have full control and can see the full picture.
