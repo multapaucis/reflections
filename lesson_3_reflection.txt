@@ -4,3 +4,8 @@
 2) Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	Just because a logical change has been made, doesn’t mean it is ready to go public. It also helps for group projects so you can make sure everything can go at once.
 
+3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Forks are similar to clones, but for Github only. You can copy a repository from 	one profile to yours.
+	Clones are any copy of a repository in Git, you can clone from Github or Git to 	Git or Github. These allow you to create your own version of a project or to have 	access to it locally and on Github
+	Branches are a split within a repository. These are used when you plan on adding 	back to the master branch eventually, and are stored in the repository
