@@ -9,3 +9,5 @@
 	Forks are similar to clones, but for Github only. You can copy a repository from 	one profile to yours.
 	Clones are any copy of a repository in Git, you can clone from Github or Git to 	Git or Github. These allow you to create your own version of a project or to have 	access to it locally and on Github
 	Branches are a split within a repository. These are used when you plan on adding 	back to the master branch eventually, and are stored in the repository
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+	It allows you to work on and compare the remote to the local version without having to immediately Merge them.
