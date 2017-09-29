@@ -11,3 +11,8 @@
 	Branches are a split within a repository. These are used when you plan on adding 	back to the master branch eventually, and are stored in the repository
 4) What is the benefit of having a copy of the last known state of the remote stored locally?
 	It allows you to work on and compare the remote to the local version without having to immediately Merge them.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Pretty Much Restricted to email files back and forth or Google Docs.
+	Easier Learning Curve, but very limited in features, and harder to keep track of 
+	all the files & changes.
