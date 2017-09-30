@@ -16,3 +16,9 @@
 	Pretty Much Restricted to email files back and forth or Google Docs.
 	Easier Learning Curve, but very limited in features, and harder to keep track of 
 	all the files & changes.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+	The same rules apply from before. Branches are useful when you are adding a new
+	feature.
+	The branches also help, because they make it easier to creat pull requests and
+	therefore easier to collaborate. 
